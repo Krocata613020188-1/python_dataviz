@@ -132,3 +132,28 @@ Google colab นั้นสามารถใช้เขียน pytho บน
 
 11.พิมพ์ git commit -m " " เพื่อบอกว่าเรากำลังทำอะไร
 
+![alt text](C012.png)
+
+12.พิมพ์ git push และให้เราใส่ Username และ Password ของ git hub เพื่อเป็นการอัพไฟล์ลงโปรเจคของเราใน github
+
+![alt text](C013.png)
+
+## **การใช้งาน visual studio code**
+
+1.ให้เปิดเว็บบราวเซอร์ขึ้นมาแล้วพิมพ์ visual studio code แล้วคลิก Visual Studio Code - Code Editing. Redefined
+
+![alt text](D001.jpg)
+
+2.เมื่อเข้าสู่เว็บไซต์แล้วให้กดดาวน์โหลดดังภาพ
+
+![alt text](D002.jpg)
+
+3.เมื่อดาว์โหลดและติดตั้งเสร็จเรียบร้อยแล้วให้เปิด Anaconda Powershell Prompt ขึ้นมาแล้วพิมพ์คำสั่ง cd เว้นวรรคตามด้วยพี่อยู่ไฟล์ที่เก็บโปรเจคแล้วใช้คำสั่ง code . เพื่อเปิดโปรแกรม  visual studio code
+
+![alt text](D003.png)
+
+4.จะปรากฏโปรแกรมดังภาพ
+
+![alt text](D004.png)
+
+5.เมื่อทำงานเสร็จให้ทำการ save และใช้คำสั่ง git add,git commit -m " ",และ git push ตามขั้นตอนด้านบน

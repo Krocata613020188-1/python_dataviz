@@ -1,8 +1,9 @@
 # python_dataviz
 
-koravit tharungsri 613020188-1 
+นายกรวิชญ์ ทะรังศรี 613020188-1 
+สาขาสถิติ ชั้นปีที่ 2
 
-## วิธีการติดตั้ง python3.7
+## **วิธีการติดตั้ง python3.7 โดยติดตั้งผ่านโปรแกรม Anaconda**
 1.ให้เปิดเว็บบราวเซอร์แล้วพิมพ์ anaconda python แล้วคลิกที่ Anaconda Python/R Distribution - Anaconda
 
 ![alt text](A001.jpg)
@@ -27,3 +28,34 @@ koravit tharungsri 613020188-1
 
 ![alt text](A006.jpg)
 
+7.เลือกตำแหน่งการการติดตั้ง สามารถกดปุ่ม next ผ่านไปได้เลย
+
+![alt text](A007.jpg)
+
+8.เมื่อปรากฏหน้าจอดังภาพ ให้คลิกปุ่ม install ดังภาพเพื่อเริ่มการติดตั้ง
+
+![alt text](A008.jpg)
+
+9.หลังจากติดตั้งเส็จให้กดปุ่ม next
+
+![alt text](A009.jpg)
+
+10.หลังจากนั้นให้คลิกปุ่ม finish เพื่อสิ้นสุดการติดตั้ง
+
+![alt text](A010.jpg)
+
+11.เมื่อดาวน์โหลดเสร็จแล้วให้เปิด Anaconda Powershell Prompt ดังภาพ
+
+![alt text](A011.png)
+
+12.เช็คว่าในเครื่องมี python แล้วหรือไม่ดดยการพิมพ์คำสั่ง python ถ้าได้ผลดังภาพแปลว่ามีโปรแกรมในเครื่องแล้ว
+
+![alt text](A012.png)
+
+13.เปิดใช้งาน jupyter notebook เพื่อเขียน python ได้โดยพิมคำสั่ง jupyter notebook ดังภาพ 
+
+![alt text](A013.png)
+
+14.จากนั้นจะปรากฎหน้าต่างเข้าใช้งาน Jupyter Notebook ผ่านทางเว็บบราวเซอร์ดังภาพ
+
+![alt text](A014.png)

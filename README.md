@@ -88,7 +88,7 @@
 
 ## **การใช้งาน github**
 
-### **1.ให้เปิดเว็บบราวเซอร์ขึ้นมาแล้วพิมพ์ github แล้วคลิกที่ The world's leading software development platform · GitHub**
+### **1.ให้เปิดเว็บบราวเซอร์ขึ้นมาแล้วพิมพ์ github แล้วคลิกที่ [The world's leading software development platform · GitHub](https://github.com/)**
 
 ![alt text](C001.png)
 
